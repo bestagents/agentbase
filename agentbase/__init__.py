@@ -5,7 +5,7 @@ A comprehensive storage solution for AI agents with advanced memory management,
 experience replay, lifelong learning, and concept drift detection capabilities.
 """
 
-__version__ = "0.1.0"
+__version__ = "0.2.0"
 __author__ = "AgentBase Contributors"
 __email__ = "hello@agentbase.org"
 
